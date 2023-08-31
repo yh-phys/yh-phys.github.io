@@ -2,7 +2,7 @@
   "basics": {
     "name": "Yong He",
     "label": "Student",
-    "image": "img/prof_pic.jpg",
+    "image": "/assets/img/prof_pic.jpg",
     "email": "hey@stu.pku.edu.cn",
     "phone": "",
     "url": "https://yh-phys.github.io",

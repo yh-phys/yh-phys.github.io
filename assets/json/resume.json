@@ -30,9 +30,7 @@
       "startDate": "",
       "endDate": "",
       "summary": "",
-      "highlights": [
-        "Relativity"
-      ]
+      "highlights":
     }
   ],
   "volunteer": [],
@@ -42,12 +40,10 @@
       "url": "https://www.pku.edu.cn",
       "area": "Condensed Matter Physics ",
       "studyType": "PhD",
-      "startDate": "2024-09-01",
+      "startDate": "2020-09-01",
       "endDate": "2024-07-01",
       "score": "",
-      "courses": [
-        ""
-      ]
+      "courses":
     }
   ],
   "awards": [

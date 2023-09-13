@@ -264,8 +264,8 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['Electron-phonon coupling', 'Superconductivity', 'Hydrides', 'Perovskite'] # these tags will be displayed on the front page of your blog
-display_categories: ['Migdal-Eliashberg'] # these categories will be displayed on the front page of your blog
+display_tags: ['Electron-phonon coupling', 'Superconductivity', 'Hydrides', 'Perovskite', 'Migdal-Eliashberg'] # these tags will be displayed on the front page of your blog
+display_categories: ['Compile', 'Abinit', 'VASP', 'Quantum-ESPRESSO', 'EPW'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -280,7 +280,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: papers.bib
+  bibliography: papers.bib, papers_2023.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
@@ -360,7 +360,7 @@ enable_cronitor_analytics: false  # enables cronitor RUM analytics
 enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arrangement
-enable_math:                true   # enables math typesetting (uses MathJax)
+enable_math:                false   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
 enable_darkmode:            true   # enables switching between light/dark modes
